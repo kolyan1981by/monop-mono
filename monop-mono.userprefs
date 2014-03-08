@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Monop.GameLogic/BotBrain.cs">
+    <Files>
+      <File FileName="monop-mono/Program.cs" Line="35" Column="18" />
+      <File FileName="Monop.GameLogic/CellInf.cs" Line="1" Column="1" />
+      <File FileName="Monop.GameLogic/Game.cs" Line="163" Column="26" />
+      <File FileName="Monop.GameLogic/BotBrain.cs" Line="21" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
